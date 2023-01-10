@@ -1,4 +1,4 @@
-### Hi there 👋
+### Opa, meu nome é Pedro Soares 👋
 
 - 🌱 Estudando python
 
