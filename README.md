@@ -1,7 +1,7 @@
 ### Opa, meu nome é Pedro Soares 👋
 
 - 🌱 Estudando python
-- 👨‍🎓 cursando engenharia de controle e automação na UFLA
+- 👨‍🎓 Cursando engenharia de controle e automação na UFLA
 
 <div align="center">
   <a href="https://github.com/MrBedrosa">
