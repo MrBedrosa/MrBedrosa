@@ -1,6 +1,6 @@
 ### Opa, meu nome é Pedro Soares 👋
 
-- 🌱 Estudando python
+- 🌱 Estudando C++ e Java
 - 👨‍🎓 Cursando engenharia de controle e automação na UFLA
 
 <div align="center">
